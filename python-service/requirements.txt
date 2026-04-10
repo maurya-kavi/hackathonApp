@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+docling
+httpx
+python-multipart
