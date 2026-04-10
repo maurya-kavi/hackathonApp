@@ -23,7 +23,7 @@ const procedures = [
     desc: 'Register your property with sub-registrar office including title verification, stamp duty payment, and deed execution.',
     steps: 7, time: '3–7 days', difficulty: 'Medium',
     tags: ['Land Records', 'Sub-Registrar', 'Stamp Duty'],
-    icon: '🏠', portal: 'https://registration.tn.gov.in',
+    icon: '🏠', portal: 'https://revenue.delhi.gov.in/revenue/property-registration',
     docs: ['Sale Deed', 'EC Certificate', 'PAN Card', 'Identity Proof', 'Property Tax Receipt'],
   },
   {
@@ -32,7 +32,7 @@ const procedures = [
     desc: 'Transfer ownership of land records in municipal records after sale or inheritance.',
     steps: 5, time: '15–30 days', difficulty: 'Medium',
     tags: ['Khata', 'Mutation', 'Revenue Dept'],
-    icon: '📜', portal: 'https://bbmpsahasra.karnataka.gov.in',
+    icon: '📜', portal: 'https://services.india.gov.in/service/detail/apply-for-mutation-of-revenue-records-jammu-and-kashmir',
     docs: ['Sale Deed', 'Encumbrance Certificate', 'Tax Receipts', 'Affidavit'],
   },
   {
@@ -41,7 +41,7 @@ const procedures = [
     desc: 'File your annual income tax return online using the Income Tax e-filing portal.',
     steps: 6, time: '1–2 hours', difficulty: 'Easy',
     tags: ['ITR', 'E-Filing', 'Refund'],
-    icon: '📊', portal: 'https://www.incometax.gov.in',
+    icon: '📊', portal: 'https://www.incometax.gov.in/iec/foportal/',
     docs: ['Form 16', 'PAN Card', 'Bank Statements', 'Form 26AS'],
   },
   {
@@ -50,7 +50,7 @@ const procedures = [
     desc: 'Register your business for Goods and Services Tax. Mandatory for turnover above ₹20 lakhs.',
     steps: 8, time: '5–7 working days', difficulty: 'Medium',
     tags: ['GST', 'GSTIN', 'Business'],
-    icon: '💼', portal: 'https://www.gst.gov.in',
+    icon: '💼', portal: 'https://www.gst.gov.in/',
     docs: ['Aadhaar', 'PAN', 'Bank Statement', 'Business Address Proof', 'Trade License'],
   },
   {
@@ -68,7 +68,7 @@ const procedures = [
     desc: 'Apply for tourist visa through Indian e-Visa portal or at respective country embassy.',
     steps: 6, time: '3–15 days', difficulty: 'Medium',
     tags: ['e-Visa', 'Embassy', 'Tourism'],
-    icon: '✈️', portal: 'https://indianvisaonline.gov.in',
+    icon: '✈️', portal: 'https://www.passportindia.gov.in/psp/ApplyPassport',
     docs: ['Passport', 'Photographs', 'Bank Statement', 'Travel Itinerary', 'Hotel Booking'],
   },
   {
@@ -77,7 +77,7 @@ const procedures = [
     desc: 'Register your micro, small, or medium enterprise on the Udyam portal for government benefits.',
     steps: 4, time: 'Same Day', difficulty: 'Easy',
     tags: ['Udyam', 'MSME', 'Subsidies'],
-    icon: '🏭', portal: 'https://udyamregistration.gov.in',
+    icon: '🏭', portal: 'https://udyamregistration.gov.in/PrintUdyamApplication.aspx',
     docs: ['Aadhaar', 'PAN', 'GSTIN (if applicable)'],
   },
   {
@@ -86,7 +86,7 @@ const procedures = [
     desc: 'Get Food Safety and Standards Authority of India license to operate a food business legally.',
     steps: 7, time: '30–60 days', difficulty: 'Hard',
     tags: ['Food Safety', 'FSSAI', 'License'],
-    icon: '🍽️', portal: 'https://foscos.fssai.gov.in',
+    icon: '🍽️', portal: 'https://foscos.fssai.gov.in/apply-for-lic-and-reg',
     docs: ['Identity Proof', 'Address Proof', 'Site Plan', 'NOC from Municipality', 'Water Analysis Report'],
   },
   {
@@ -95,7 +95,7 @@ const procedures = [
     desc: 'Apply for central government scholarships for students from SC/ST/OBC/Minority communities.',
     steps: 5, time: '1–3 months', difficulty: 'Easy',
     tags: ['NSP', 'Scholarship', 'Students'],
-    icon: '🎓', portal: 'https://scholarships.gov.in',
+    icon: '🎓', portal: 'https://scholarships.gov.in/',
     docs: ['Aadhaar', 'Income Certificate', 'Mark Sheets', 'Bank Passbook', 'Caste Certificate'],
   },
   {
@@ -104,7 +104,7 @@ const procedures = [
     desc: 'File a Right to Information request to any central or state government department online.',
     steps: 4, time: '30 days (by law)', difficulty: 'Easy',
     tags: ['RTI', 'Transparency', 'PIO'],
-    icon: '📋', portal: 'https://rtionline.gov.in',
+    icon: '📋', portal: 'https://rtionline.gov.in/',
     docs: ['Identity Proof', 'RTI Application Fee (₹10)'],
   },
   {
@@ -113,7 +113,7 @@ const procedures = [
     desc: 'Apply for a new ration card or make modifications to existing ration card via state portal.',
     steps: 5, time: '15–30 days', difficulty: 'Easy',
     tags: ['PDS', 'Food Security', 'NFSA'],
-    icon: '🛒', portal: 'https://nfsa.gov.in',
+    icon: '🛒', portal: 'https://nfsa.gov.in/portal/ration_card_state_portals_aa',
     docs: ['Aadhaar', 'Address Proof', 'Income Proof', 'Family Photo', 'Existing Ration Card (if any)'],
   },
   {
@@ -122,7 +122,7 @@ const procedures = [
     desc: 'Enroll in PM Jan Arogya Yojana for health insurance cover of ₹5 lakh per family per year.',
     steps: 3, time: '1–3 days', difficulty: 'Easy',
     tags: ['PMJAY', 'Health Insurance', 'Ayushman'],
-    icon: '🏥', portal: 'https://mera.pmjay.gov.in',
+    icon: '🏥', portal: 'https://beneficiary.nha.gov.in/',
     docs: ['Aadhaar', 'Ration Card', 'Income Certificate'],
   },
 ];
